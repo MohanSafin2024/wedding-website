@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Nunito:400,300,700);
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=Parisienne&family=UnifrakturMaguntia&display=swap');
 
 p {
 font-size:15px;
@@ -976,4 +977,14 @@ color:#BCC1C3;
 	font-size:60px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 300;
+}
+
+.upperline{
+	color:#000000;
+	font-size:22px;
+	text-align:center;
+	/*font-family: 'Montserrat', sans-serif;*/
+	font-family: 'Parisienne', cursive;
+	font-weight: 300;
+
 }
