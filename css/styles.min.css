@@ -3,6 +3,7 @@
 @import uIrl(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Nunito:400,300,700);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=UnifrakturMaguntia&display=swap');
 
 p {
 font-size:15px;
@@ -367,7 +368,7 @@ margin-bottom:80px;
 }
 
 .hero .hero-content {
-padding-top:42%;
+padding-top:41%;
 }
 
 .hero .hero-content img {
@@ -741,7 +742,7 @@ width:100%;
 height:100%;
 padding-top:180px;
 position:relative;
-background:rgba(17,17,17,0.3);
+background:rgba(0,0,0,0);
 text-align:center;
 }
 
@@ -967,4 +968,12 @@ z-index:9;
 
 .rsvp .rsvp-form .form-input-group input::-webkit-input-placeholder,.rsvp .rsvp-form .form-input-group input:-moz-placeholder,.rsvp .rsvp-form .form-input-group input::-moz-placeholder,.rsvp .rsvp-form .form-input-group input:-ms-input-placeholder {
 color:#BCC1C3;
+}
+
+
+.maintext{
+	color:#FFFFFF;
+	font-size:60px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 }
