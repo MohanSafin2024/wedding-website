@@ -101,7 +101,7 @@ section.intro,section.features-extra,section.rsvp {
 background:#fff;
 }
 
-section.features,section.events,section.blog {
+section.features,section.blog {
 background:#f8f9fd;
 }
 
@@ -252,7 +252,7 @@ animation-iteration-count:infinite;
 animation-timing-function:ease-in-out;
 }
 
-.wp1,.wp2,.wp3,.wp4,.wp5,.wp6,.wp7,.wp8,.wp9,.wp11,.wp12,.wp13,.wp14,.wp15,.wp16 {
+.wp1,.wp2,.wp3,.wp4,.wp5,.wp6,.wp7,.wp8,.wp9,.wp11,.wp12,.wp13,.wp14,.wp15,.wp16,.wp17 {
 visibility:hidden;
 }
 
@@ -466,6 +466,11 @@ width:100%;
 height:auto;
 }
 
+#invitation img {
+width:100%;
+height:auto;
+}
+
 #intro p {
 text-align:center;
 }
@@ -633,6 +638,15 @@ border-right:solid 1px #E6E9EA;
 }
 
 .logistics .rightcol {
+padding-left:100px;
+}
+
+.invitation .leftcol {
+padding-right:50px;
+border-right:solid 1px #E6E9EA;
+}
+
+.invitation .rightcol {
 padding-left:100px;
 }
 
