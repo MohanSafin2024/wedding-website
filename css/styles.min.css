@@ -755,6 +755,29 @@ font-weight:300;
 letter-spacing:10px;
 }
 
+
+
+#video-content-small {
+width:100%;
+height:100%;
+padding-top:180px;
+position:relative;
+background:rgba(0,0,0,0);
+text-align:center;
+text-color:#fff;
+}
+
+#video-content-small h5 {
+color:#fff;
+font-size:30px;
+font-weight:300;
+letter-spacing:10px;
+}
+
+
+
+
+
 #map-canvas {
 height:500px;
 width:100%;
@@ -989,3 +1012,28 @@ color:#BCC1C3;
 	font-weight: 300;
 
 }
+
+
+.videoContainer {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#hero2 {
+	position: relative;
+}
+iframe {
+	/* optional */
+	width: 100%;
+	height: 100%;
+}
+
+
