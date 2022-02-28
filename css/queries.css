@@ -394,11 +394,11 @@
     }
 
     #video-bg {
-        height:100px;
+        height:50px;
     }
 
     #video-content {
-        padding-top:20px;
+        padding-top:0px;
     }
 
     #video-content h5{
