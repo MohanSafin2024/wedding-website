@@ -416,6 +416,10 @@
         font-weight:500;
     }
 
+    #intro {
+        padding-top:50px;
+    }
+
 }
 
 @media screen and (max-width: 320px) {
