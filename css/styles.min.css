@@ -759,6 +759,10 @@ letter-spacing:10px;
 	color:#fff;
  }
 
+ #rsvp-spacer {
+ 	height:0px;
+ }
+
 
 /*#video-content-small {
 width:100%;
