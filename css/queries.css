@@ -327,6 +327,10 @@
         padding-top:80px;
     }
 
+    #video-content-small {
+        padding-top:80px;
+    }
+
     
 
 }
@@ -415,6 +419,35 @@
         color:#000;
         font-weight:500;
     }
+
+
+
+    #video-content-small {
+        padding-top:0px;
+        padding-bottom:100px;
+    }
+
+    #video-content-small h5{
+        color:#000;
+    }
+
+    #video-content-small p{
+        color:#000;
+        font-weight:500;
+    }
+
+    #video-content-small u{
+        color:#000;
+        font-weight:500;
+    }
+
+
+
+
+
+
+
+
 
     #rsvp-spacer {
         height:1px;
