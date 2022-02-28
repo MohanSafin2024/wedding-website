@@ -225,6 +225,36 @@
     .events .rightcol {
         padding: 0 20px;
     }
+
+    .logistics .leftcol {
+        padding: 0 15px;
+        margin-bottom: 15px;
+        border-right: none;
+    }
+
+    .logistics .rightcol {
+        padding: 0 20px;
+    }
+
+    .location .leftcol {
+        padding: 0 15px;
+        margin-bottom: 15px;
+        border-right: none;
+    }
+
+    .location .rightcol {
+        padding: 0 20px;
+    }
+
+    .invitation .leftcol {
+        padding: 0 15px;
+        margin-bottom: 15px;
+        border-right: none;
+    }
+
+    .invitation .rightcol {
+        padding: 0 20px;
+    }
     
     #eng-pics .img-wrap {
         border-radius: 0;
