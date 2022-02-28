@@ -393,12 +393,12 @@
         display: none;
     }
 
-   /* #video-bg {
+    #video-bg {
         height:100px;
-    }*/
+    }
 
     #video-content {
-        padding-top:2000px;
+        padding-top:20px;
     }
 
     #video-content h5{
