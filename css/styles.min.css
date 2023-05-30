@@ -357,12 +357,12 @@ position:relative;
 }
 
 .hero h1 {
-color:#556B2F;
+color:#9933FF;
 margin-bottom:100px;
 }
 
 .hero p.intro {
-color:#556B2F;
+color:#9933FF;
 font-size:200px;
 font-weight:350;
 margin-bottom:10px;
@@ -403,7 +403,8 @@ padding:50px 0;
 header a {
 color:#fff;
 text-transform:uppercase;
-font-size:13px;
+font-size:20px;
+font-weight: bold;
 }
 
 header .logo img {
@@ -694,46 +695,12 @@ color:rgba(28,54,83,0.6);
 color:#3D4351;
 }
 
-#instagram img {
-width:100%;
-}
-
 #eng-pics .img-wrap {
 position:relative;
 overflow:hidden;
 border-radius:4px;
 }
 
-#eng-pics .img-wrap i {
-color:#fff;
-font-size:15px;
-position:absolute;
-width:15px;
-height:15px;
-top:6px;
-right:6px;
-}
-
-#eng-pics .diamond {
-width:230px;
-height:230px;
-position:absolute;
-bottom:-145px;
-left:50%;
-transform:translateX(-50%);
-z-index:500;
-}
-
-#eng-pics .ring {
-width:75px;
-height:75px;
-border-radius:75px;
-border:10px solid #d0d3d4;
-position:absolute;
-left:34%;
-top:75%;
-z-index:-1;
-}
 
 #video-bg {
 height:480px;
