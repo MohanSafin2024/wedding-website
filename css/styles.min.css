@@ -403,7 +403,7 @@ padding:50px 0;
 header a {
 color:#fff;
 text-transform:uppercase;
-font-size:20px;
+font-size:14px;
 font-weight: bold;
 }
 
@@ -1003,10 +1003,10 @@ color:#BCC1C3;
 
 
 .maintext{
-	color:#556B2F;
+	color:#FFFFFF;
 	font-size:80px;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 .upperline{
