@@ -353,6 +353,7 @@ background:url(../img/header.jpeg) center center;
 -moz-background-size:cover;
 -o-background-size:cover;
 background-size:cover;
+filter: brightness(50%);
 position:relative;
 }
 
