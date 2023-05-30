@@ -1007,8 +1007,8 @@ color:#BCC1C3;
 	font-size:80px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	position: relative;
-	padding-top: -200px;
+	position: absolute;
+	padding-left: -200px;
 }
 
 .upperline{
