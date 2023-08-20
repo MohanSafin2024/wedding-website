@@ -131,7 +131,7 @@ margin:0;
 }
 
 a {
-color:#34dbeb;
+color:rgba(1,0,155,0.9);
 -webkit-transition-timing-function:ease;
 transition-timing-function:ease;
 -webkit-transition-duration:200ms;
@@ -141,7 +141,7 @@ transition-property:color, border-color, background-color;
 }
 
 a:hover,a:focus {
-color:#4634eb;
+color:rgba(1,0,255,0.9);
 text-decoration:none;
 }
 
