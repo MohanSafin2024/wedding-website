@@ -22,6 +22,14 @@ line-height:29px;
 padding-bottom:20px;
 }
 
+p11 {
+color:rgba(1,0,2,0.9);
+font-size:20px;
+font-weight:250;
+line-height:29px;
+padding-bottom:20px;
+}
+
 h1 {
 font-size:60px;
 }
@@ -1007,7 +1015,7 @@ color:#BCC1C3;
 
 .maintext{
 	color:#FFFFFF;
-	font-size:80px;
+	font-size:76px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 }
